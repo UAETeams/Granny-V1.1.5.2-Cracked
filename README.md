@@ -36,7 +36,7 @@
 >Download the Process Hacker from here
 >https://processhacker.sourceforge.io/downloads.php
 
->#How to Use
+># How to Use
 >After Setting UP everything open Process Hacker and then Open Granny at the same time
 >Find Granny.exe in process hacker and suspend it
 >After that inject the GrannyCrack.dll in the game

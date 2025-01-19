@@ -13,4 +13,28 @@
 >Once you download and install the git then open Command Prompt
 >Type in the Following Commands
 >
->```Hi```
+>```git clone https://github.com/microsoft/vcpkg```
+>
+>It will take some time for the vcpkg to download and install and once its done run the following command
+>
+>```git clone https://github.com/microsoft/vcpkg```
+>
+>After that Install the bootstrap package
+>
+>```.\vcpkg\bootstrap-vcpkg.bat```
+>
+>And then install MinHook
+>
+>```.\vcpkg\vcpkg install minhook```
+>
+>Once its all complete
+>Download the Process Hacker from here
+>https://processhacker.sourceforge.io/downloads.php
+
+>#How to Use
+>After Setting UP everything open Process Hacker and then Open Granny at the same time
+>Find Granny.exe in process hacker and suspend it
+>After that inject the GrannyCrack.dll in the game
+>In the End resume the Process and your granny is cracked
+
+##Here is an Example

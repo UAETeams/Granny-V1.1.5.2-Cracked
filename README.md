@@ -1,5 +1,9 @@
 ## Granny Recapture V1.1.5.2 Cracked By Code Red
 
+>#Support
+>Here is my Discord server
+>https://discord.gg/CcUtGK5qgv
+
 >## Introduction
 >This crack is made by me aka CodeRed.
 >I wrote it in C++ using minhook so that no one can replicate me.

@@ -9,3 +9,7 @@
 >## Setting Up
 >First Of all Download Git from microsoft
 >https://git-scm.com/downloads/win
+>
+>Once you download and install the git then open Command Prompt
+>Type in the Following Commands
+```Hi```

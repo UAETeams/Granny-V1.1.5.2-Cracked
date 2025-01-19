@@ -1,4 +1,4 @@
-# Granny Recapture V1.1.5.2 Cracked By Code Red
+## Granny Recapture V1.1.5.2 Cracked By Code Red
 
 >## Introduction
 >This crack is made by me aka CodeRed.

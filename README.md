@@ -7,7 +7,6 @@
 
 >## Introduction
 >This crack is made by me aka CodeRed.
->I wrote it in C++ using minhook so that no one can replicate me.
 >
 >As its using MinHook so to use the crack you need to install minhook first
 

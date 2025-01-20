@@ -32,7 +32,8 @@
 >
 >```.\vcpkg\vcpkg install minhook```
 >
->Once its all complete
+>Once its all complete.
+>
 >Download the Process Hacker from here
 >https://processhacker.sourceforge.io/downloads.php
 

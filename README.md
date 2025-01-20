@@ -22,11 +22,11 @@
 >
 >It will take some time for the vcpkg to download and install and once its done run the following command
 >
->```git clone https://github.com/microsoft/vcpkg```
->
->After that Install the bootstrap package
->
 >```.\vcpkg\bootstrap-vcpkg.bat```
+>
+>After that Integrate Install
+>
+>```.\vcpkg\vcpkg integrate install```
 >
 >And then install MinHook
 >
